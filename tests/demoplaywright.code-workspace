@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"playwrightBdd.configPath": "playwright.config.ts",
+		"playwrightBdd.stepsFolder": "."
+	}
+}
